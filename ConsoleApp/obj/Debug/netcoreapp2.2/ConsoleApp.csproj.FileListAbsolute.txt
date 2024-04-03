@@ -1,0 +1,10 @@
+E:\Pujan\ExamTest\postfix-expression\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.deps.json
+E:\Pujan\ExamTest\postfix-expression\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.runtimeconfig.json
+E:\Pujan\ExamTest\postfix-expression\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.runtimeconfig.dev.json
+E:\Pujan\ExamTest\postfix-expression\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.dll
+E:\Pujan\ExamTest\postfix-expression\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.pdb
+E:\Pujan\ExamTest\postfix-expression\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.csproj.CoreCompileInputs.cache
+E:\Pujan\ExamTest\postfix-expression\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.AssemblyInfoInputs.cache
+E:\Pujan\ExamTest\postfix-expression\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.AssemblyInfo.cs
+E:\Pujan\ExamTest\postfix-expression\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.dll
+E:\Pujan\ExamTest\postfix-expression\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.pdb
